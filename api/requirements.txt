@@ -1,0 +1,12 @@
+uvicorn
+fastapi
+psycopg2-binary
+sqlalchemy
+pydantic
+pytest
+pytest-mock
+logging
+email-validator
+pydantic[email]
+leia
+python-dotenv
